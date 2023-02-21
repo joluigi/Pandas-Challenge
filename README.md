@@ -2,7 +2,7 @@
 
 In this scenario we are aiming to obtain information about the sales of this game. The idea is to understand the business overall. This includes what the users are buying InApp, the user gender, age and more. Thiw will help to other departments such as marketing, sales, among others, to make more solid decisions. 
 
-This notebook is divide in __ sections:
+This notebook is divide in 8 sections:
 
 1. Basic calculations to know number o players, purchased objects, average price, Monthly ticket, and revenue.
 
